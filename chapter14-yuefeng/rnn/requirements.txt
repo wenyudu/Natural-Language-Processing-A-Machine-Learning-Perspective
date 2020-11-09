@@ -1,0 +1,4 @@
+torch==1.0.0
+torchtext==0.6.0
+spacy
+nltk
