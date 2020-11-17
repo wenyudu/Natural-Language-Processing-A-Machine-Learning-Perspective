@@ -1,0 +1,2 @@
+__label__5	This movie is quite funny and interesting .
+__label__2	But another one is bad .
