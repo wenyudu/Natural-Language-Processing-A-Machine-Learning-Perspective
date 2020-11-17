@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33206e0a-b588-4625-bd71-f20243133299" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jXqx3BxN6v01fZbWHwzCSGcsDq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyProjects\chapter6\data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PyProjects\chapter6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.wordalign">
+    <configuration name="hard_em" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chapter6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hard_em.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wordalign" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chapter6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wordalign.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.wordalign" />
+        <item itemvalue="Python.hard_em" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33206e0a-b588-4625-bd71-f20243133299" name="Default Changelist" comment="" />
+      <created>1603961026569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603961026569</updated>
+      <workItem from="1603961027810" duration="10678000" />
+      <workItem from="1604648808291" duration="3775000" />
+      <workItem from="1604972210263" duration="6361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="699" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603961212572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="699" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603961212572" />
+    <state x="715" y="222" key="#xdebugger.evaluate" timestamp="1604978554218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="222" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1604978554218" />
+    <state width="1087" height="466" key="DebuggerActiveHint" timestamp="1604976940837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1087" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1604976940837" />
+    <state width="1877" height="460" key="GridCell.Tab.0.bottom" timestamp="1604979974787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="460" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604979974787" />
+    <state width="1877" height="460" key="GridCell.Tab.0.center" timestamp="1604979974786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="460" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604979974786" />
+    <state width="1877" height="460" key="GridCell.Tab.0.left" timestamp="1604979974786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="460" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604979974786" />
+    <state width="1877" height="460" key="GridCell.Tab.0.right" timestamp="1604979974786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="460" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604979974786" />
+    <state width="1877" height="460" key="GridCell.Tab.1.bottom" timestamp="1604979974787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="460" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604979974787" />
+    <state width="1877" height="460" key="GridCell.Tab.1.center" timestamp="1604979974787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="460" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604979974787" />
+    <state width="1877" height="460" key="GridCell.Tab.1.left" timestamp="1604979974787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="460" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604979974787" />
+    <state width="1877" height="460" key="GridCell.Tab.1.right" timestamp="1604979974787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="460" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604979974787" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="np.sum(H, axis=0).reshape(K, 1)" />
+        <watch expression="np.sum(np.square(H - last_H))" language="Python" />
+        <watch expression="np.sum(np.square(probX_givenY - last_param))" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/chapter6$hard_em.coverage" NAME="hard_em Coverage Results" MODIFIED="1604043384751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chapter6$wordalign.coverage" NAME="wordalign Coverage Results" MODIFIED="1604979743413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
